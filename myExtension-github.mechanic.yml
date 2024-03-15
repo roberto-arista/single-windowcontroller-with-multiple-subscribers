@@ -1,0 +1,10 @@
+extensionName: myExtension (GitHub)
+description: A boilerplate extension which serves as starting point for creating your own extensions.
+developer: RoboDocs
+developerURL: https://github.com/roboDocs
+repository: http://github.com/robodocs/single-windowcontroller-with-multiple-subscribers
+extensionPath: myExtension.roboFontExt
+icon: https://raw.githubusercontent.com/roboDocs/single-windowcontroller-with-multiple-subscribers/master/myExtensionMechanicIcon.png
+infoPath: https://raw.githubusercontent.com/robodocs/single-windowcontroller-with-multiple-subscribers/HEAD/info.yaml
+zipPath: https://github.com/robodocs/single-windowcontroller-with-multiple-subscribers/releases/latest/download/Arrange Windows.roboFontExt.zip
+tags: [ demo ]
