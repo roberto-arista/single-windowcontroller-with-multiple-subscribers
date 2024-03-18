@@ -6,5 +6,5 @@ repository: http://github.com/robodocs/single-windowcontroller-with-multiple-sub
 extensionPath: myExtension.roboFontExt
 icon: https://raw.githubusercontent.com/roboDocs/single-windowcontroller-with-multiple-subscribers/master/myExtensionMechanicIcon.png
 infoPath: https://raw.githubusercontent.com/robodocs/single-windowcontroller-with-multiple-subscribers/HEAD/info.yaml
-zipPath: https://github.com/robodocs/single-windowcontroller-with-multiple-subscribers/releases/latest/download/Arrange Windows.roboFontExt.zip
+zipPath: https://github.com/robodocs/single-windowcontroller-with-multiple-subscribers/releases/latest/download/myExtension.roboFontExt.zip
 tags: [ demo ]
